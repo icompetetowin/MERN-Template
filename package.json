@@ -1,0 +1,17 @@
+{
+  "name": "MERN-Template",
+  "version": "1.0.0",
+  "description": "MERN Template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "icompetetowin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2",
+    "mongodb": "^3.6.10"
+  }
+}
